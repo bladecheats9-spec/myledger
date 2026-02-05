@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Kunal Ledger",
+    "slug": "myledger",
+    "sdkVersion": "50.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+
+    "android": {
+      "package": "com.kunal.myledger2026",
+      "versionCode": 1
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "fd53ed48-52a2-4573-b3f4-d6f18f019b8c"
+      }
+    }
+  }
+}
